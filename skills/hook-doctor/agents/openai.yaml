@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hook Doctor"
+  short_description: "診斷 Reels 頭五秒、直接在 CapCut 重剪，再交付安全區封面與 Caption"
+  default_prompt: "使用 $hook-doctor 分析這條 Reel，直接在 CapCut 製作改善版，並交付符合安全區的封面與 Caption。"
